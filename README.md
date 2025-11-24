@@ -13,7 +13,6 @@
   <img src="https://raw.githubusercontent.com/Alpha6849/Alpha6849/main/assets/banner.png" width="90%" />
 </p>
 
-*(If you want, I can generate a custom banner for this.)*
 
 ---
 
