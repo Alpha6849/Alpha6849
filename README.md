@@ -55,7 +55,7 @@ Right now, I’m focused on strengthening my ML foundations by building structur
 ## 📌 **Pinned Work**
 
 <details open>
-<summary><b>📘 Deep Learning Basics (Week 1-3)</b></summary>
+<summary><b>📘 Deep Learning Basics Notebooks</b></summary>
 Foundational DL notebooks — RNN, GRU, Seq Models, CNNs (soon).
 </details>
 
