@@ -1,7 +1,4 @@
-Here is a **dark-theme, aesthetic, developer-vibe GitHub profile README** — clean, modern, and ML-focused.
-You can **copy-paste directly** into your `Alpha6849/Alpha6849` repo.
 
----
 
 # 🌙 **Prathamesh | ML Developer & Data Builder**
 
