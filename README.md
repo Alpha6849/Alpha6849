@@ -96,5 +96,4 @@ Interactive Streamlit dashboard + ML predictions on Netflix dataset.
 
 ---
 
-Just say: **“make my banner”** and tell me the color vibe you prefer (neon blue / purple / red / cyberpunk / matrix green).
 
