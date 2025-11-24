@@ -52,17 +52,12 @@ Right now, I’m focused on strengthening my ML foundations by building structur
 
 <details open>
 <summary><b>📘 Deep Learning Basics Notebooks</b></summary>
-Foundational DL notebooks — RNN, GRU, Seq Models, CNNs (soon).
+Foundational DL notebooks .
 </details>
 
 <details>
 <summary><b>🤖 CortexAI — Autonomous Data Scientist (Prototype)</b></summary>
 An LLM-assisted tool that analyzes datasets, builds models & generates insights.
-</details>
-
-<details>
-<summary><b>🎬 Netflix Data App</b></summary>
-Interactive Streamlit dashboard + ML predictions on Netflix dataset.
 </details>
 
 ---
