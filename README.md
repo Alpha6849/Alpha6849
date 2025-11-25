@@ -44,7 +44,9 @@ Right now, I’m focused on strengthening my ML foundations by building structur
 ## 🛠 **Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,github,streamlit,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=github,streamlit,vscode&theme=dark" />
+
 </p>
 
 ### **Core Skills**
@@ -68,9 +70,13 @@ An LLM-assisted tool that analyzes datasets, builds models & generates insights.
 ---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alpha6849&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=Alpha6849&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alpha6849&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Alpha6849&theme=tokyonight" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alpha6849&theme=tokyo-night" />
