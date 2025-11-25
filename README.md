@@ -6,8 +6,9 @@
 
 ---
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Alpha6849&count_bg=%237D5AFE&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=true"/>
+  <img src="https://komarev.com/ghpvc/?username=Alpha6849&label=Profile+Views&color=9A4DFF&style=flat-square" />
 </p>
+
 
 
 <p align="center">
