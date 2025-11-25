@@ -1,6 +1,6 @@
 
 
-# 🌙 **Prathamesh | ML Developer & Data Builder**
+# 🌙 Prathamesh | ML Developer • Data Science
 
 > *Turning ideas into ML-powered tools.
 > Learning fast. Building faster.*
