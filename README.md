@@ -6,8 +6,9 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alpha6849&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Alpha6849&count_bg=%237D5AFE&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=true"/>
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alpha6849/Alpha6849/main/assets/kaito-typing.gif" width="350">
