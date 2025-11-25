@@ -7,10 +7,9 @@
 
 ---
 
-<!-- Banner -->
-
+<!-- Live GitHub Stats Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alpha6849/Alpha6849/main/assets/banner.png" width="90%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=700&color=6AAEFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Prathamesh;ML+Developer;AI+%7C+Deep+Learning+%7C+Data+Science;I+build+ML-powered+tools" />
 </p>
 
 
@@ -62,28 +61,14 @@ An LLM-assisted tool that analyzes datasets, builds models & generates insights.
 
 ---
 
-## 🧩 **Stats**
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alpha6849&style=for-the-badge&color=grey" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alpha6849&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Alpha6849&theme=tokyonight" />
 </p>
 
-<!-- Optional dark stats section -->
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alpha6849&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha6849&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alpha6849&theme=tokyo-night" />
 </p>
-
----
-
-## 📈 Live Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alpha6849&theme=github-dark&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alpha6849&show_icons=true&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Alpha6849&theme=github-dark&hide_border=true)
 
 
 ## 🌐 **Find Me Online**
