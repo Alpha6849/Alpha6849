@@ -2,7 +2,7 @@
 
 # 🌙 Prathamesh | ML Developer • Data Science
 
-> *Turning ideas into ML-powered tools.
+> Turning ideas into ML-powered tools.
 
 ---
 <p align="center">
@@ -40,7 +40,7 @@ Right now, I’m focused on strengthening my ML foundations by building structur
 * ML models & experimentation workflows
 * Data preprocessing + automation pipelines
 * Streamlit ML applications
-* Deep learning practice notebooks (RNN, GRU, CNN soon)
+* Deep learning practice notebooks
 * End-to-end mini-projects from idea → prototype
 
 ---
