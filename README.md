@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alpha6849/Alpha6849/main/assets/kaito-typing.gif" width="300">
+  <img src="https://raw.githubusercontent.com/Alpha6849/Alpha6849/main/assets/kaito-typing.gif" width="350">
 </p>
 
 
