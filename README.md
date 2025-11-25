@@ -3,7 +3,6 @@
 # 🌙 Prathamesh | ML Developer • Data Science
 
 > *Turning ideas into ML-powered tools.
-> Learning fast. Building faster.*
 
 ---
 
@@ -69,9 +68,6 @@ An LLM-assisted tool that analyzes datasets, builds models & generates insights.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Alpha6849&theme=react-dark" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Alpha6849&theme=tokyonight" />
