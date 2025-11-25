@@ -5,6 +5,9 @@
 > *Turning ideas into ML-powered tools.
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alpha6849&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alpha6849/Alpha6849/main/assets/kaito-typing.gif" width="350">
