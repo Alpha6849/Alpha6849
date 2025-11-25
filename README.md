@@ -8,8 +8,9 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alpha6849/Alpha6849/main/assets/kaito-typing.gif" width="90%" />
+  <img src="/kaito-typing.gif" width="350" />
 </p>
+
 
 
 <!-- Live GitHub Stats Header -->
