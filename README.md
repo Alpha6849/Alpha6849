@@ -7,6 +7,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alpha6849/Alpha6849/main/assets/kaito-typing.gif" width="90%" />
+</p>
+
+
 <!-- Live GitHub Stats Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=700&color=6AAEFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Prathamesh;ML+Developer;AI+%7C+Deep+Learning+%7C+Data+Science;I+build+ML-powered+tools" />
