@@ -44,7 +44,7 @@ Right now, I’m focused on strengthening my ML foundations by building structur
 ## 🛠 **Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" /><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alpha6849&theme=react-dark" /><br>
 <img src="https://skillicons.dev/icons?i=github,streamlit,vscode&theme=dark" />
 
 </p>
