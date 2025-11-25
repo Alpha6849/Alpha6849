@@ -77,6 +77,15 @@ An LLM-assisted tool that analyzes datasets, builds models & generates insights.
 
 ---
 
+## 📈 Live Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alpha6849&theme=github-dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alpha6849&show_icons=true&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Alpha6849&theme=github-dark&hide_border=true)
+
+
 ## 🌐 **Find Me Online**
 
 <p align="center">
