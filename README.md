@@ -28,13 +28,13 @@
 
 ## 🖤 **About Me**
 
-I’m a CSE student at **VIT Vellore**, exploring the world of
-**Machine Learning, Deep Learning, and AI-automation**.
+I explore **Machine Learning, Deep Learning, and AI-automation**, with a focus on turning raw data into working ML tools.
 
-I love taking raw data → building pipelines → shipping working ML prototypes.
-Right now, I’m focused on strengthening my ML foundations by building structured notebooks, experimenting with real datasets, and improving my deployment workflow.
+I enjoy building end-to-end workflows —  
+**data → preprocessing → modeling → evaluation → deployment**.
 
----
+Right now, I'm sharpening my ML foundations through structured notebooks, reproducible experiments, and small ML prototypes that turn ideas into real systems.
+
 
 ## ⚡ **What I Build**
 
