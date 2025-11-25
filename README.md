@@ -2,7 +2,7 @@
 
 # 🌙 Prathamesh | ML Developer • Data Science
 
-> *Turning ideas into ML-powered tools.
+<h3 align="center"><i>✨ Turning ideas into ML-powered tools.</i></h3>
 
 ---
 <p align="center">
