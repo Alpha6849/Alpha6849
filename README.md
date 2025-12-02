@@ -68,7 +68,7 @@ Foundational DL notebooks .
 </details>
 
 <details>
-<summary><b>🤖 CortexAI — Autonomous Data Scientist (Prototype)</b></summary>
+<summary><b>🤖 CortexAI — Autonomous CSV Automator (Prototype)</b></summary>
 An LLM-assisted tool that analyzes datasets, builds models & generates insights.
 </details>
 
