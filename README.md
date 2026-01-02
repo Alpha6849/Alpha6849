@@ -60,6 +60,11 @@ Right now, I'm sharpening my ML foundations through structured notebooks, reprod
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alpha6849/Alpha6849/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 ## 📌 **Pinned Work**
 
 <details open>
