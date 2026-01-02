@@ -1,107 +1,83 @@
+# 🌙 Prathamesh
+### ML Developer • Data Science • AI Automation
 
-
-# 🌙 Prathamesh | ML Developer • Data Science
-
-<h3><i>✨ Turning ideas into ML-powered tools.</i></h3>
-
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alpha6849&label=Profile+Views&color=9A4DFF&style=flat-square" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Alpha6849/Alpha6849/main/assets/kaito-typing.gif" width="350">
-</p>
-
-
-
-<!-- Live GitHub Stats Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=700&color=6AAEFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Prathamesh;ML+Developer;I+build+ML-powered+tools" />
-</p>
-
+> Turning ideas into **ML-powered systems** through clean pipelines and real-world experimentation.
 
 ---
 
-## 🖤 **About Me**
+## 🧠 About Me
 
-I explore **Machine Learning, Deep Learning, and AI-automation**, with a focus on turning raw data into working ML tools.
+I work at the intersection of **Machine Learning, Data Science, and AI automation**.
 
-I enjoy building end-to-end workflows —  
-**data → preprocessing → modeling → evaluation → deployment**.
+My focus is on building **end-to-end ML workflows**:
 
-Right now, I'm sharpening my ML foundations through structured notebooks, reproducible experiments, and small ML prototypes that turn ideas into real systems.
+**data → preprocessing → modeling → evaluation → deployment**
 
+I enjoy transforming raw datasets into structured, explainable, and usable ML systems through:
+- reproducible notebooks  
+- modular pipelines  
+- practical prototypes  
 
-## ⚡ **What I Build**
-
-* ML models & experimentation workflows
-* Data preprocessing + automation pipelines
-* Streamlit ML applications
-* Deep learning practice notebooks
-* End-to-end mini-projects from idea → prototype
+Currently, I’m strengthening my ML foundations while building small but complete systems that reflect real-world ML work.
 
 ---
 
-## 🛠 **Tech Stack**
+## ⚙️ What I Build
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=github,streamlit,vscode&theme=dark" />
-
-</p>
-
-### **Core Skills**
-
-**Python • Machine Learning • Data Science • Deep Learning (learning) • TensorFlow/PyTorch • Pandas • NumPy • Streamlit**
+- Machine Learning models & experiments  
+- Data preprocessing and feature engineering pipelines  
+- Streamlit-based ML applications  
+- End-to-end mini projects (idea → prototype)
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Alpha6849/Alpha6849/output/github-contribution-grid-snake.svg" />
-</p>
+## 🛠 Tech Stack
 
+**Languages & Libraries**
+- Python  
+- NumPy, Pandas  
+- Scikit-learn  
+- TensorFlow, PyTorch
 
-## 📌 **Pinned Work**
-
-<details open>
-<summary><b>📘 Deep Learning Basics Notebooks</b></summary>
-Foundational DL notebooks .
-</details>
-
-<details>
-<summary><b>🤖 CortexAI — Autonomous CSV Automator (Prototype)</b></summary>
-An LLM-assisted tool that analyzes datasets, builds models & generates insights.
-</details>
+**Tools & Platforms**
+- Git & GitHub  
+- Streamlit  
+- VS Code  
+- Jupyter Notebooks  
 
 ---
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha6849&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
+## 📌 Highlighted Work
 
+### 📘 Deep Learning Basics
+A structured collection of notebooks covering:
+- neural network fundamentals  
+- backpropagation intuition  
+- CNN basics  
+- practical PyTorch/TensorFlow usage  
 
-
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alpha6849&theme=tokyo-night" />
-</p>
-
-
-## 🌐 **Find Me Online**
-
-<p align="center">
-  <a href="https://linkedin.com/in/prathamesh-chalak-62835930a">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
-</p>
+### 🤖 CortexAI — Autonomous CSV Automator (Prototype)
+An ML-assisted system that:
+- analyzes datasets  
+- detects schema & targets  
+- trains baseline models  
+- generates structured insights  
 
 ---
 
+## 📈 Current Focus
+
+- Strengthening ML & DL fundamentals  
+- Writing clean, reusable ML code  
+- Building small but complete ML systems  
+- Preparing for ML internships & research-style projects  
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/prathamesh-chalak-62835930a  
+- GitHub: https://github.com/Alpha6849  
+
+---
 
