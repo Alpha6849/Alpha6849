@@ -12,12 +12,16 @@
 
 ## 📊 GitHub Snapshot
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha6849&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://ghstats-tau.vercel.app/api?show_bg=1&username=Alpha6849&show_icons=true&hide_border=true">
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 ---
