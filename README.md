@@ -1,47 +1,89 @@
-👋 Hi, I’m **Prathamesh Chalak**
 
-- 🔭 Working on **Machine Learning & Data Science projects**
-- 🌱 Learning **Deep Learning, MLOps, and AI automation**
-- 💬 Ask me about **ML pipelines, data preprocessing, and model building**
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/prathamesh-chalak-62835930a)
+
+# 🌙 Prathamesh | ML Developer • Data Science
+
+<h3><i>✨ Turning ideas into ML-powered tools.</i></h3>
+
+
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alpha6849&label=Profile+Views&color=9A4DFF&style=flat-square" />
+</p>
 
-<div align="center">
 
-[![Language:Python](https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![ML:ScikitLearn](https://img.shields.io/badge/ML-Scikit_Learn-orange?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
-[![DL:PyTorch](https://img.shields.io/badge/DL-PyTorch-red?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![DL:TensorFlow](https://img.shields.io/badge/DL-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
+<!-- Live GitHub Stats Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=700&color=6AAEFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Prathamesh;ML+Developer;I+build+ML-powered+tools" />
+</p>
 
-[![Tool:Streamlit](https://img.shields.io/badge/Tool-Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![Editor:VSCode](https://img.shields.io/badge/Editor-VS_Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-
-[![](https://visitcount.itsvg.in/api?id=Alpha6849&label=Profile%20Views&color=9&icon=2&pretty=true)](https://visitcount.itsvg.in)
-
-</div>
 
 ---
 
-## 📌 Highlighted Work
+## 🖤 **About Me**
 
-- 📘 **Deep Learning Basics** — foundational notebooks for neural networks & CNNs  
-- 🤖 **CortexAI** — autonomous CSV analysis & ML pipeline prototype  
+I explore **Machine Learning, Deep Learning, and AI-automation**, with a focus on turning raw data into working ML tools.
+
+I enjoy building end-to-end workflows —  
+**data → preprocessing → modeling → evaluation → deployment**.
+
+Right now, I'm sharpening my ML foundations through structured notebooks, reproducible experiments, and small ML prototypes that turn ideas into real systems.
+
+
+## ⚡ **What I Build**
+
+* ML models & experimentation workflows
+* Data preprocessing + automation pipelines
+* Streamlit ML applications
+* Deep learning practice notebooks
+* End-to-end mini-projects from idea → prototype
 
 ---
 
-## 📊 GitHub Snapshot
+## 🛠 **Tech Stack**
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://ghstats-tau.vercel.app/api?show_bg=1&username=Alpha6849&show_icons=true&hide_border=true" alt="GitHub Stats">
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=github,streamlit,vscode&theme=dark" />
+
+</p>
+
+### **Core Skills**
+
+**Python • Machine Learning • Data Science • Deep Learning (learning) • TensorFlow/PyTorch • Pandas • NumPy • Streamlit**
 
 ---
+
+
+## 📌 **Pinned Work**
+
+<details open>
+<summary><b>📘 Deep Learning Basics Notebooks</b></summary>
+Foundational DL notebooks .
+</details>
+
+<details>
+<summary><b>🤖 CortexAI — Autonomous CSV Automator (Prototype)</b></summary>
+An LLM-assisted tool that analyzes datasets, builds models & generates insights.
+</details>
+
+---
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alpha6849&theme=tokyo-night" />
+</p>
+
+
+## 🌐 **Find Me Online**
+
+<p align="center">
+  <a href="https://linkedin.com/in/prathamesh-chalak-62835930a">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+</p>
+
+---
+
 
 ## 🎯 Current Focus
 
