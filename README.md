@@ -76,7 +76,7 @@ An LLM-assisted tool that analyzes datasets, builds models & generates insights.
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha6849&theme=tokyonight&hide_border=true&v=3" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha6849&theme=tokyonight&hide_border=true&v=4" />
 
 </p>
 
