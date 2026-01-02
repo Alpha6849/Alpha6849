@@ -1,83 +1,54 @@
-# 🌙 Prathamesh
-### ML Developer • Data Science • AI Automation
+👋 Hi, I’m **Prathamesh Chalak**
 
-> Turning ideas into **ML-powered systems** through clean pipelines and real-world experimentation.
-
+- 🔭 Working on **Machine Learning & Data Science projects**
+- 🌱 Learning **Deep Learning, MLOps, and AI automation**
+- 💬 Ask me about **ML pipelines, data preprocessing, and model building**
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/prathamesh-chalak-62835930a)
 ---
 
-## 🧠 About Me
+<div align="center">
 
-I work at the intersection of **Machine Learning, Data Science, and AI automation**.
+[![Language:Python](https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![ML:ScikitLearn](https://img.shields.io/badge/ML-Scikit_Learn-orange?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![DL:PyTorch](https://img.shields.io/badge/DL-PyTorch-red?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![DL:TensorFlow](https://img.shields.io/badge/DL-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 
-My focus is on building **end-to-end ML workflows**:
+[![Tool:Streamlit](https://img.shields.io/badge/Tool-Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
+[![Editor:VSCode](https://img.shields.io/badge/Editor-VS_Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 
-**data → preprocessing → modeling → evaluation → deployment**
+[![](https://visitcount.itsvg.in/api?id=Alpha6849&label=Profile%20Views&color=9&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-I enjoy transforming raw datasets into structured, explainable, and usable ML systems through:
-- reproducible notebooks  
-- modular pipelines  
-- practical prototypes  
-
-Currently, I’m strengthening my ML foundations while building small but complete systems that reflect real-world ML work.
-
----
-
-## ⚙️ What I Build
-
-- Machine Learning models & experiments  
-- Data preprocessing and feature engineering pipelines  
-- Streamlit-based ML applications  
-- End-to-end mini projects (idea → prototype)
-
----
-
-## 🛠 Tech Stack
-
-**Languages & Libraries**
-- Python  
-- NumPy, Pandas  
-- Scikit-learn  
-- TensorFlow, PyTorch
-
-**Tools & Platforms**
-- Git & GitHub  
-- Streamlit  
-- VS Code  
-- Jupyter Notebooks  
+</div>
 
 ---
 
 ## 📌 Highlighted Work
 
-### 📘 Deep Learning Basics
-A structured collection of notebooks covering:
-- neural network fundamentals  
-- backpropagation intuition  
-- CNN basics  
-- practical PyTorch/TensorFlow usage  
-
-### 🤖 CortexAI — Autonomous CSV Automator (Prototype)
-An ML-assisted system that:
-- analyzes datasets  
-- detects schema & targets  
-- trains baseline models  
-- generates structured insights  
+- 📘 **Deep Learning Basics** — foundational notebooks for neural networks & CNNs  
+- 🤖 **CortexAI** — autonomous CSV analysis & ML pipeline prototype  
 
 ---
 
-## 📈 Current Focus
+## 📊 GitHub Snapshot
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://ghstats-tau.vercel.app/api?show_bg=1&username=Alpha6849&show_icons=true&hide_border=true" alt="GitHub Stats">
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Building clean, reproducible ML pipelines  
 - Strengthening ML & DL fundamentals  
-- Writing clean, reusable ML code  
-- Building small but complete ML systems  
-- Preparing for ML internships & research-style projects  
+- Preparing for ML internships & applied projects  
 
 ---
 
-## 🌐 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/prathamesh-chalak-62835930a  
-- GitHub: https://github.com/Alpha6849  
-
----
 
