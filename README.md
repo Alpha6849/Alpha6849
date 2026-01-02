@@ -10,6 +10,19 @@
   <img src="https://komarev.com/ghpvc/?username=Alpha6849&label=Profile+Views&color=9A4DFF&style=flat-square" />
 </p>
 
+## 📊 GitHub Snapshot
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://ghstats-tau.vercel.app/api?show_bg=1&username=Alpha6849&show_icons=true&hide_border=true" alt="GitHub Stats">
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 <!-- Live GitHub Stats Header -->
 <p align="center">
