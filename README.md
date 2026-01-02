@@ -75,8 +75,11 @@ An LLM-assisted tool that analyzes datasets, builds models & generates insights.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alpha6849&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Alpha6849&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  />
 </p>
+
 
 
 
