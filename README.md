@@ -45,7 +45,7 @@ Right now, I'm sharpening my ML foundations through structured notebooks, reprod
 ## 📌 **Pinned Work**
 
 <details open>
-<summary><b>📘 Deep Learning Basics Notebooks</b></summary>
+<summary><b>📘 Deep Learning Notebooks</b></summary>
 Foundational DL notebooks .
 </details>
 
